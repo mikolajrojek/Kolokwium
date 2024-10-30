@@ -1,0 +1,7 @@
+.
+├── backup
+├── struktura_katalogow.txt
+├── wyniki1.txt
+└── wynik.txt
+
+2 directories, 3 files
